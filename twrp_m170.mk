@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/motorola/m170/device.mk)
 
 PRODUCT_DEVICE := m170
-PRODUCT_NAME := omni_m170
+PRODUCT_NAME := twrp_m170
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := SabahLite
 PRODUCT_MANUFACTURER := motorola
